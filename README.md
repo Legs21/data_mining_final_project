@@ -5,6 +5,6 @@ This project aims to answer during what times is the traffic on I-70 at its peak
 
 The biggest indicator of volume of cars on I-70 going either direction is what time of day your are driving. Peak times are from 8 a.m. to 4 p.m., unline a typical city highway, it is not subject to rush hours, but instead stays busy most of the day. The only possible exception to this is if you are travelling eastbound in the mornings (until about 9 a.m.), in which case you are likely to be in lower volumes of traffic. Other factors such as time of year, day of the week and direction travelling do not have as much of an influence.
 
-[Final Paper](pdf/Ski_Country_and_the_Traffic_It_Creates.pdf)
+[Final Paper](Ski_Country_USA_and_the_Traffic_It_Creates.pdf)
 
 [Final Presentation](https://youtu.be/_FUTvkAo7nA)
